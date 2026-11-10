@@ -2,6 +2,9 @@
 
 공무원과 공공기관 실무자가 린치핀아카데미의 성격을 빠르게 이해하고, 무료 복습 영상 또는 LIVE 강의로 이동하도록 만든 독립 랜딩페이지입니다.
 
+- [배포된 랜딩페이지](https://obito-ai.github.io/linchpin-public-service-landing/)
+- [린치핀아카데미 공식 홈페이지](https://linchpin-academy.kr)
+
 ## 디자인 기준
 
 - 기존 린치핀아카데미 팔레트: 네이비 `#0A1F44`, 골드 `#F2B83A`, 스카이 `#EAF0F8`
