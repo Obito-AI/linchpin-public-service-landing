@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title id="title">린치핀 심볼</title>
-  <circle cx="32" cy="32" r="28" fill="#F2B83A"/>
-  <circle cx="32" cy="32" r="15" fill="#0A1F44"/>
-  <circle cx="32" cy="32" r="5" fill="#F2B83A"/>
-  <path d="M32 4v13M32 47v13M4 32h13M47 32h13" stroke="#0A1F44" stroke-width="4" stroke-linecap="square"/>
-</svg>
